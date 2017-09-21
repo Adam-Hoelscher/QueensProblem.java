@@ -1,5 +1,5 @@
-/**
- * Created by Adam on 11/27/2014.
+/*
+  Created by Adam on 11/27/2014.
  */
 import java.io.BufferedWriter;
 import java.io.File;
